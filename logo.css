@@ -1,0 +1,21 @@
+.wasm-logo {
+    background-image: url(https://webassembly.org/css/webassembly.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 90px;
+    height: 47px;
+    float: right;
+    margin-top: 20px;
+}
+.c-logo {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/220px-C_Programming_Language.svg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 47px;
+    height: 47px;
+    float: right;
+    margin-top: 20px;
+    margin-right:20px;
+}
